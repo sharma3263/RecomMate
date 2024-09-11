@@ -1,7 +1,4 @@
 # RecomMate
-Here's a `README.md` file based on the project description and functionality we've discussed. This template includes sections for installation, usage, and further details about the e-commerce recommendation system:
-
----
 
 # E-commerce Recommendation System
 
@@ -117,6 +114,3 @@ The content-based recommendation algorithm currently uses a placeholder. You can
 
 ![Screenshot of E-commerce Recommendation System](static/Screenshot.png)
 
-### Overview
-
-The **E-commerce Recommendation System** is a content-based recommendation engine...
