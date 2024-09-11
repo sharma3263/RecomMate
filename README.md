@@ -112,5 +112,5 @@ The content-based recommendation algorithm currently uses a placeholder. You can
 - **Add Collaborative Filtering:** Combine content-based and collaborative filtering methods for better recommendations.
   # E-commerce Recommendation System
 
-![Screenshot of E-commerce Recommendation System](static/Screenshot.png)
+![Screenshot of E-commerce Recommendation System](static/Screenshot.PNG)
 
